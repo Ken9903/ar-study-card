@@ -1,5 +1,5 @@
 # Japanese Study Card – AR 단어 학습 앱
-<img src="https://github.com/user-attachments/assets/ce07554a-f579-46c7-a2b7-ede102da7657" alt="프로젝트 대표 이미지" width="600"/>
+<img src= "https://github.com/user-attachments/assets/7bd39715-0bc5-4dba-be7c-2cbc964d6690" alt="프로젝트 대표 이미지" width="600"/>
 
 ### 🖊️ 요약
 
